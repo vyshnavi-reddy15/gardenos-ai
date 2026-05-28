@@ -139,5 +139,106 @@ http://localhost:8000/docs
 
 http://localhost:8001
 
+# Product Preview
+
+## Dashboard Overview
+
+The platform includes a centralized gardening dashboard for tracking plants, notes, reminders, seasonal insights, and recent activity.
+
+![Dashboard](images/dashboard.png)
+
+---
+
+## Garden Calendar
+
+Interactive gardening calendar for tracking schedules, reminders, tasks, and seasonal activities.
+
+Features:
+
+* Task scheduling
+* Reminder tracking
+* Journal integration
+* Seasonal gardening workflows
+
+![Garden Calendar](images/calendar.png)
+
+---
+
+## Plant Management
+
+Dedicated plant tracking system for maintaining plant details, notes, locations, and activity history.
+
+Features:
+
+* Plant CRUD operations
+* Botanical information
+* Location tracking
+* Plant-specific notes
+* Event association
+
+![Plant Management](images/plants.png)
+
+---
+
+## Gardening Journal
+
+Structured journaling workflow for recording plant observations, growth updates, and gardening history.
+
+Features:
+
+* Timeline-based journal entries
+* Plant-linked observations
+* Editable note history
+* Growth tracking workflows
+
+![Journal](images/journal.png)
+
+---
+
+## Seasonal Insights System
+
+Context-aware seasonal gardening recommendations tailored for Indian gardening conditions.
+
+Features:
+
+* Seasonal crop recommendations
+* Blooming guidance
+* Harvest tracking
+* Weather-aware workflows
+* Seasonal reminders
+
+![Seasonal Insights](images/seasonal-insights.png)
+
+---
+
+## AI Gardening Assistant – Sprout
+
+Integrated AI assistant designed to provide contextual gardening recommendations using conversational workflows and future RAG-ready architecture.
+
+Capabilities:
+
+* Plant care recommendations
+* Symptom-based guidance
+* Seasonal advice
+* Watering recommendations
+* Context-aware gardening support
+
+![AI Assistant](images/ai-chat.png)
+
+---
+
+## Contextual AI Recommendations
+
+The assistant generates structured gardening guidance using contextual plant data, reminders, seasonal information, and gardening memory workflows.
+
+Example capabilities:
+
+* Plant health diagnosis
+* Watering optimization
+* Seasonal planning
+* Soil and nutrient recommendations
+
+![AI Recommendations](images/ai-recommendations.png)
+
 ```
 ```
