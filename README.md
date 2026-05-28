@@ -123,29 +123,54 @@ Planned:
 docker compose up --build
 ```
 
-## Frontend
+---
 
-http://localhost:3000
+# Application Services
 
-## Backend API
+| Service                       | Description                                      |
+| ----------------------------- | ------------------------------------------------ |
+| Frontend Application          | User interface and dashboard workflows           |
+| Backend API Service           | FastAPI-powered backend and application logic    |
+| Interactive API Documentation | OpenAPI / Swagger API interface                  |
+| ChromaDB Vector Service       | Vector database for semantic retrieval workflows |
 
-http://localhost:8000
+---
 
-## API Docs
+# Development Stack
 
-http://localhost:8000/docs
+The application runs as a containerized multi-service architecture using Docker Compose, including:
 
-## ChromaDB
+* Next.js frontend
+* FastAPI backend
+* PostgreSQL database
+* ChromaDB vector store
+* AI service layer and agent workflows
 
-http://localhost:8001
+---
 
-# Product Preview
+# Backend Architecture
 
-## Dashboard Overview
+The backend follows a modular service-oriented structure with dedicated layers for:
 
-The platform includes a centralized gardening dashboard for tracking plants, notes, reminders, seasonal insights, and recent activity.
+* API routing
+* Business logic
+* AI agent workflows
+* Retrieval pipelines
+* Database models
+* Vector storage integration
 
-![Dashboard](images/dashboard.png)
+---
+
+# AI & RAG Foundation
+
+GardenOS AI includes an extensible AI architecture designed for future:
+
+* semantic search workflows
+* contextual gardening memory
+* intelligent recommendations
+* retrieval-augmented generation (RAG)
+* conversational AI experiences
+
 
 ---
 
